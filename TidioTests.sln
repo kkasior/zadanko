@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidioTests", "TidioTests\TidioTests.csproj", "{BE624D37-13ED-462C-8A27-D58944ED0668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE624D37-13ED-462C-8A27-D58944ED0668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE624D37-13ED-462C-8A27-D58944ED0668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE624D37-13ED-462C-8A27-D58944ED0668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE624D37-13ED-462C-8A27-D58944ED0668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD90153-9B5A-4894-B2E3-9E897BFE66A7}
+	EndGlobalSection
+EndGlobal
